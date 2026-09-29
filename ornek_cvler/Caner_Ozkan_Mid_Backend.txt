@@ -1,0 +1,23 @@
+ADAY: Caner Özkan
+İLETİŞİM: caner.ozkan@email.com | +90 544 321 0011 | Şişli, İstanbul
+ÖZET:
+3 yıllık yazılım geliştirme tecrübesine sahip Yazılım Mühendisi. Özellikle Django ve PostgreSQL ile arka yüz servisleri geliştirdi. FastAPI ve mikroservisler konusunda kendini geliştirmeye istekli.
+
+DENEYİM:
+1. Software Developer - E-Ticaret Çözümleri A.Ş. (2022 - Günümüz / 2 Yıl)
+- Django tabanlı e-ticaret arka ofis panelleri ve ürün katalog API'leri geliştirildi.
+- Celery ve Redis ile arka plan görevleri optimize edildi.
+
+2. Junior Python Geliştirici - SoftTech Stüdyo (2021 - 2022 / 1 Yıl)
+- Python scriptleri ile veri kazıma ve veri temizleme boru hatları kuruldu.
+
+EĞİTİM:
+- Lisans: Marmara Üniversitesi - Yönetim Bilişim Sistemleri (2017 - 2021)
+
+YETENEKLER:
+- Diller & Framework: Python, Django, REST API, SQL, temel Docker
+- Veritabanı: PostgreSQL, SQLite
+- Yabancı Dil: İngilizce (Teknik okuma iyi, konuşma orta)
+
+ÇALIŞMA TERCİHİ:
+- İstanbul Avrupa yakasında oturuyor, hibrit çalışma şartlarına uyum sağlayabilir.

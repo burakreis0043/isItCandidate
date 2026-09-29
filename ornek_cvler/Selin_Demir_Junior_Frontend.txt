@@ -1,0 +1,20 @@
+ADAY: Selin Demir
+İLETİŞİM: selin.demir@email.com | +90 555 444 8899 | İzmir | LinkedIn: linkedin.com/in/selindemir
+ÖZET:
+1 yıllık deneyime sahip Arayüz (Frontend) Geliştirici. React ve JavaScript ile kullanıcı dostu arayüzler geliştirme odaklı çalışmaktadır.
+
+DENEYİM:
+1. Junior Frontend Developer - WebAgency İzmir (2023 - Günümüz / 1 Yıl)
+- React ve Tailwind CSS ile kurumsal web siteleri tasarlandı.
+- REST API entegrasyonları yapıldı.
+
+EĞİTİM:
+- Lisans: Ege Üniversitesi - İktisat (2018 - 2022)
+
+YETENEKLER:
+- Diller & Araçlar: HTML, CSS, JavaScript, React, Git
+- Python veya Backend tecrübesi: Yok / Temel düzeyde ilgi
+- Yabancı Dil: İngilizce (Orta Düzey - B1)
+
+ÇALIŞMA TERCİHİ:
+- İzmir'de yaşamaktadır. Sadece %100 Uzaktan (Remote) pozisyonları değerlendirmektedir; İstanbul'da ofise gelme imkanı bulunmamaktadır.

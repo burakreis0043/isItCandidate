@@ -1,0 +1,25 @@
+ADAY: Mert Yılmaz
+İLETİŞİM: mert.yilmaz@email.com | +90 532 111 2233 | Kadıköy, İstanbul | GitHub: github.com/mertyilmaz
+ÖZET:
+5 yılı aşkın deneyime sahip Kıdemli Backend ve Python Geliştirici. Yüksek hacimli mikroservis mimarileri, FastAPI, Django, PostgreSQL, Redis ve Docker ortamlarında uzmanlaşmış. Ekip liderliği ve mentörlük tecrübesi mevcut.
+
+DENEYİM:
+1. Senior Backend Developer - FinTech Labs (2022 - Günümüz / 3 Yıl)
+- FastAPI ve PostgreSQL ile saniyede 15.000 işlem işleyen ödeme ağ geçidi mikroservisleri geliştirildi.
+- Docker ve Kubernetes üzerinde CI/CD süreçleri modernize edildi.
+- Genç geliştiricilere kod incelemesi ve mentörlük sağlandı.
+
+2. Python Software Engineer - DataGlobal A.Ş. (2020 - 2022 / 2 Yıl)
+- Django REST framework ile kurumsal SaaS platformları inşa edildi.
+- Redis caching ile API sorgu süreleri %40 iyileştirildi.
+
+EĞİTİM:
+- Lisans: Yıldız Teknik Üniversitesi - Bilgisayar Mühendisliği (2016 - 2020, GANO: 3.42)
+
+YETENEKLER:
+- Diller & Framework: Python, FastAPI, Django, SQL, Bash
+- Veritabanı & Araçlar: PostgreSQL, Redis, Docker, Git, CI/CD
+- Yabancı Dil: İngilizce (İleri Düzey - C1)
+
+ÇALIŞMA TERCİHİ:
+- İstanbul Anadolu yakasında ikamet etmekte, haftada 2-3 gün ofise gelmeye (hibrit düzene) tamamen uygun.
